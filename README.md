@@ -22,8 +22,11 @@ This repository contains a set of SQL Server scripts used for auditing and verif
 -   **Current_Server_Settings_Audit.sql** : This script retrieves critical system-level information about the current settings of the SQL Server instance. 
 It includes details on memory usage, locked pages, large pages allocation, and SQL Server services status. This script is useful for regular auditing and ensuring that server configurations are optimal and consistent with best practices.
 
+-  **SQL_Server_Alerts_Check.sql** :  This script retrieves information about SQL Server alerts configured on the instance.
+    It provides details on whether the alerts are enabled, their descriptions, the last time they were triggered,
+    and the total number of times they have been triggered.
 
-- **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
+  - **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
 
 ## Usage
 
