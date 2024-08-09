@@ -18,6 +18,10 @@ This repository contains a set of SQL Server scripts used for auditing and verif
   
 -  **SQL_Server_Configuration_Check.sql** : This script is designed to gather critical SQL Server configuration settings for each instance. This script helps administrators audit and review key configuration options such as memory settings, CPU settings, parallelism, and worker threads to ensure consistency across the environment.
 
+  
+-   **Current_Server_Settings_Audit.sql** : This script retrieves critical system-level information about the current settings of the SQL Server instance. 
+It includes details on memory usage, locked pages, large pages allocation, and SQL Server services status. This script is useful for regular auditing and ensuring that server configurations are optimal and consistent with best practices.
+
 
 - **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
 
