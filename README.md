@@ -14,6 +14,11 @@ This repository contains a set of SQL Server scripts used for auditing and verif
 ## Contents
 
 - **AON_Monthly_Configuration_Audit.sql**: A comprehensive script to audit SQL Server instances participating in AON. It checks key configurations, such as memory allocation, CPU settings, node roles (primary/secondary), failover modes, and quorum settings.
+
+  
+-  **SQL_Server_Configuration_Check.sql** : This script is designed to gather critical SQL Server configuration settings for each instance. This script helps administrators audit and review key configuration options such as memory settings, CPU settings, parallelism, and worker threads to ensure consistency across the environment.
+
+
 - **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
 
 ## Usage
