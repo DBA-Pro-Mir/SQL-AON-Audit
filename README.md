@@ -1,11 +1,11 @@
 # SQL-AON-Audit
 
 
-![GitHub](https://img.shields.io/github/license/yourusername/SQL-AON-Audit)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/SQL-AON-Audit)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/SQL-AON-Audit)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/SQL-AON-Audit?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/SQL-AON-Audit?style=social)
+![GitHub](https://img.shields.io/github/license/DBA-Pro-Mir/SQL-AON-Audit)
+![GitHub last commit](https://img.shields.io/github/last-commit/DBA-Pro-Mir/SQL-AON-Audit)
+![GitHub issues](https://img.shields.io/github/issues/DBA-Pro-Mir/SQL-AON-Audit)
+![GitHub forks](https://img.shields.io/github/forks/DBA-Pro-Mir/SQL-AON-Audit?style=social)
+![GitHub stars](https://img.shields.io/github/stars/DBA-Pro-Mir/SQL-AON-Audit?style=social)
 
 ## Overview
 
