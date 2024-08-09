@@ -26,13 +26,14 @@ It includes details on memory usage, locked pages, large pages allocation, and S
     It provides details on whether the alerts are enabled, their descriptions, the last time they were triggered,
     and the total number of times they have been triggered.
 
+  - **SQL_Server_Jobs_Info.sql**:    This script retrieves detailed information about SQL Server Agent jobs configured on the instance.
+    It provides details on the job name, status, schedule, last run time, last run outcome, and more.
+
+
+   
+
   - **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
 
-## Usage
-
-1. **Run Frequency**: The primary script should be executed monthly as part of routine maintenance.
-2. **Execution**: Run the script on each SQL Server instance that is part of your Always On Availability Group setup.
-3. **Results**: Review and compare the results across all nodes to ensure consistency and detect any discrepancies in configuration.
 
 ## Contributions
 
