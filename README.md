@@ -29,10 +29,10 @@ It includes details on memory usage, locked pages, large pages allocation, and S
   - **SQL_Server_Jobs_Info.sql**:    This script retrieves detailed information about SQL Server Agent jobs configured on the instance.
     It provides details on the job name, status, schedule, last run time, last run outcome, and more.
 
-  - **SQLMemoryandPlanCacheHistory.sql** Script for Analyzing SQL Server Memory Usage and Plan Cache. 
+  - **SQLMemoryandPlanCacheHistory.sql** This script for Analyzing SQL Server Memory Usage and Plan Cache. 
 
-		This script includes a set of queries to analyze how SQL Server is utilizing memory, including memory usage by different components, buffer pool usage, query memory grants, 
-		plan cache utilization, and Resource Governor configuration.
+      This script includes a set of queries to analyze how SQL Server is utilizing memory, including memory usage by different components, buffer pool usage, query memory grants, 
+      plan cache utilization, and Resource Governor configuration.
 
   - **Additional Scripts**: Future scripts will be added to extend the auditing capabilities, including security checks, performance baselines, and disaster recovery readiness.
 
